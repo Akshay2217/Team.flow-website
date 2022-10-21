@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Team.flow-website/static/css/main.e9935a43.css",
+    "main.js": "/Team.flow-website/static/js/main.9368dc6f.js",
+    "static/js/787.f86bc4ea.chunk.js": "/Team.flow-website/static/js/787.f86bc4ea.chunk.js",
+    "static/media/Graph 2.png": "/Team.flow-website/static/media/Graph 2.169f28ed683d03d78ad8.png",
+    "static/media/slack-logo.png": "/Team.flow-website/static/media/slack-logo.5db8170f25d3418d6776.png",
+    "index.html": "/Team.flow-website/index.html",
+    "main.e9935a43.css.map": "/Team.flow-website/static/css/main.e9935a43.css.map",
+    "main.9368dc6f.js.map": "/Team.flow-website/static/js/main.9368dc6f.js.map",
+    "787.f86bc4ea.chunk.js.map": "/Team.flow-website/static/js/787.f86bc4ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9935a43.css",
+    "static/js/main.9368dc6f.js"
+  ]
+}
